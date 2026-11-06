@@ -1,0 +1,2 @@
+Inici simplex primal amb regla del cost reduït més negatiu
+   Fase I

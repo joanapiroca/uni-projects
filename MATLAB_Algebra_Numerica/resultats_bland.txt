@@ -1,0 +1,6 @@
+Inici simplex primal amb regla de Bland
+   Fase I
+      Iteració    0 : q =   1, rq =   -3.000, B(p) =   5, theta*=    1.000, z =    3.000 
+      Iteració    1 : q =   2, rq =   -1.500, B(p) =   4, theta*=    2.000, z =    0.000 
+      Solució òptima trobada, iteració 2
+   Fase II
